@@ -65,9 +65,9 @@ As a **Data Analyst**, my task was to design a Power BI dashboard that helps the
 
 ## 🔗 Live Dashboard & Resources
 
-- 📊 **Live Power BI Dashboard:** [View Dashboard Here]([INSERT_POWERBI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiM2M5YzBmOWQtZGVkMC00M2RmLWFjNTYtZWEzNWQ5ZWNhNTRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
+- 📊 **Live Power BI Dashboard:** [View Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiM2M5YzBmOWQtZGVkMC00M2RmLWFjNTYtZWEzNWQ5ZWNhNTRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 - 📂 **GitHub Repository:** [Explore Source Code](https://github.com/Nileshmahata/Shield-Insurance-Analytics-Dashboard.git)  
-- 🎥 **Presentation Video + Demo:** [LinkedIn Post]([INSERT_LINKEDIN_POST_LINK_HERE](https://www.linkedin.com/posts/nilesh-mahata-49389a1a5_codebasicsvirtualinternship-powerbi-dataanalytics-activity-7330852079483125762-Mu6k?utm_source=share&utm_medium=member_desktop&rcm=ACoAADABzy8BZRFj7GbKX-jdnGh_lvUMR1BOQBg)
+- 🎥 **Presentation Video + Demo:** [LinkedIn Post](https://www.linkedin.com/posts/nilesh-mahata-49389a1a5_codebasicsvirtualinternship-powerbi-dataanalytics-activity-7330852079483125762-Mu6k?utm_source=share&utm_medium=member_desktop&rcm=ACoAADABzy8BZRFj7GbKX-jdnGh_lvUMR1BOQBg)
 
 ---
 
